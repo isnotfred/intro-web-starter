@@ -111,16 +111,16 @@ You are required to have **at least 3 commits** (one for each file type).
 ## 🧠 Reflection (Required)
 *Please edit this file and fill in your answers below before submitting.*
 
-**Name:** [ YOUR NAME HERE ]
+**Name:** Frederick Orlain
 
 **1. What did you learn from the intro video?**
-> [ Write your answer here ]
+> From the intro video, I learned the foundational skills for web development, including how to structure web pages with HTML, style them with CSS, and make them interactive with JavaScript. I also learned how these three technologies work together to create functional and visually appealing websites.
 
 **2. What is the role of HTML in web development?**
-> [ Write your answer here ]
+> HTML is used to structure and organize the content of a website. It defines elements like headings, paragraphs, buttons, and links, giving the browser a clear blueprint of what to display. In my code, I used HTML to create the main structure of my page, including the `<h1>` for my name, `<h2>` for the question, `<p>` for descriptive text, and a `<button>` for interactive functionality.
 
 **3. What is the role of CSS in web development?**
-> [ Write your answer here ]
+> CSS is used to style and visually enhance HTML elements. It controls colors, fonts, spacing, alignment, and layout to make web pages more appealing and readable. In my code, I used CSS to style the background color of the page, set font styles for headings and paragraphs, and customize the button’s color, padding, hover effect, and rounded corners.
 
 **4. What is the role of JavaScript in web development?**
-> [ Write your answer here ]
+> JavaScript adds interactivity and dynamic behavior to web pages. It allows developers to respond to user actions, update content in real time, and create engaging experiences. In my code, I used JavaScript to make the button interactive so that when clicked, it triggers an alert message that confirms JavaScript is working.
